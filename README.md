@@ -78,11 +78,11 @@ Evaluation Metric: F1-Score
 Deep Learning Comparison
 To further evaluate the effectiveness of sequential neural networks in text classification, a separate module was added to compare:
 
-🔹 Simple RNN
+🔹 Simple RNN and Bidirectional
 
-🔹 LSTM (Long Short-Term Memory)
+🔹 LSTM (Long Short-Term Memory) and Bidirectional
 
-🔹 GRU (Gated Recurrent Unit)
+🔹 GRU (Gated Recurrent Unit) and Bidirectional
 
 ---
 
