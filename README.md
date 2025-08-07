@@ -95,13 +95,6 @@ Outputs real-time sentiment prediction
 
 Allows interactive testing of the trained model
 
----
-
-## ☁️ Deployment *(Planned)*
-
-The solution is ready for deployment on:
-- **AWS EC2** instance *(planned)*
-- Can also be deployed via Render or Hugging Face Spaces for public access
 
 ---
 
